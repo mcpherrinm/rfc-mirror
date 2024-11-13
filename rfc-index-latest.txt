@@ -4,53 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9642 A YANG Data Model for a Keystore. K. Watsen. October 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9642) 
-
-9643 YANG Groupings for TCP Clients and TCP Servers. K. Watsen, M.
-     Scharf. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9643) 
-
-9644 YANG Groupings for SSH Clients and SSH Servers. K. Watsen. October
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9644) 
-
-9645 YANG Groupings for TLS Clients and TLS Servers. K. Watsen. October
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9645) 
-
-9646 Conveying a Certificate Signing Request (CSR) in a Secure Zero-Touch
-     Provisioning (SZTP) Bootstrapping Request. K. Watsen, R. Housley, S.
-     Turner. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC8572) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9646) 
-
-9647 A YANG Data Model for Babel. M. Jethanandani, B. Stark. October
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9647) 
-
-9648 YANG Data Model for TCP. M. Scharf, M. Jethanandani, V. Murgai.
-     October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9648) 
-
-9650 Revision to Registration Procedures for IS-IS Neighbor
-     Link-Attribute Bit Values. T. Li. August 2024. (Format: HTML, TXT,
-     PDF, XML) (Updates RFC5029) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9650) 
-
-9651 Structured Field Values for HTTP. M. Nottingham, P-H. Kamp.
-     September 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8941)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9651) 
-
-9652 The Link-Template HTTP Header Field. M. Nottingham. September 2024.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9652) 
-
-9653 Zero Checksum for the Stream Control Transmission Protocol. M.
-     Tüxen, V. Boivie, F. Castelli, R. Jesup. September 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9653) 
-
 9654 Online Certificate Status Protocol (OCSP) Nonce Extension. H.
      Sharma, Ed.. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC8954) (Updates RFC6960) (Status: PROPOSED STANDARD) (DOI:
@@ -64,9 +17,18 @@
      Qu, R. Taylor, L. Zhang. October 2024. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9657) 
 
+9658 Multipoint LDP Extensions for Multi-Topology Routing. IJ. Wijnands,
+     M. Mishra, Ed., K. Raza, Z. Zhang, A. Gulko. October 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC7307) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9658) 
+
 9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
+
+9660 The DNS Zone Version (ZONEVERSION) Option. H. Salgado, M. Vergara,
+     D. Wessels. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9660) 
 
 9661 The JSON Meta Application Protocol (JMAP) for Sieve Scripts. K.
      Murchison. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
@@ -82,6 +44,45 @@
      Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
 
+9666 Area Proxy for IS-IS. T. Li, S. Chen, V. Ilangovan, G. Mishra.
+     October 2024. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
+     (DOI: 10.17487/RFC9666) 
+
+9667 Dynamic Flooding on Dense Graphs. T. Li, Ed., P. Psenak, Ed., H.
+     Chen, L. Jalil, S. Dontula. October 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9667) 
+
+9669 BPF Instruction Set Architecture (ISA). D. Thaler, Ed.. October
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9669) 
+
+9671 Sieve Email Filtering: Extension for Processing Calendar
+     Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9671) 
+
+9673 IPv6 Hop-by-Hop Options Processing Procedures. R. Hinden, G.
+     Fairhurst. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8200) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9673) 
+
+9675 Delay-Tolerant Networking Management Architecture (DTNMA). E.
+     Birrane III, S. Heiner, E. Annis. November 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
+
+9677 Content Delivery Network Interconnection (CDNI) Metadata for
+     Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
+     October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9677) 
+
+9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
+     Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9680) 
+
+9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
+     Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9687) 
+
 ===========================================================================
- - This file last updated Fri 11 Oct 2024 02:30:01 AM PDT
+ - This file last updated Wed 13 Nov 2024 02:30:02 AM PST
 

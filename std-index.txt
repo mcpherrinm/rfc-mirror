@@ -5,7 +5,7 @@
                              STD INDEX
                            -------------
 
-CREATED ON: 10/12/2024.
+CREATED ON: 11/12/2024.
 
 This file contains citations for all STDs in numeric order.  Each
 STD represents a single Internet Standard technical specification,
@@ -366,7 +366,7 @@ page http://www.rfc-editor.org
 
 0086 Internet Protocol, Version 6 (IPv6) Specification. S. Deering, R.
      Hinden. July 2017. (Format: TXT=93658 HTML= bytes) (Obsoletes
-     RFC2460) (Also RFC8200)
+     RFC2460) (Updated by RFC9673) (Also RFC8200)
 
 0087 Path MTU Discovery for IP version 6. J. McCann, S. Deering, J.
      Mogul, R. Hinden, Ed.. July 2017. (Format: TXT=42751 HTML= bytes)

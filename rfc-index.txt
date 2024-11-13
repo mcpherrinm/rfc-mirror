@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/13/2024.)
+(CREATED ON: 11/13/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17325,8 +17325,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4271 A Border Gateway Protocol 4 (BGP-4). Y. Rekhter, Ed., T. Li, Ed., S.
      Hares, Ed.. January 2006. (Format: TXT, HTML) (Obsoletes RFC1771)
      (Updated by RFC4724, RFC6286, RFC6608, RFC6793, RFC7606, RFC7607,
-     RFC7705, RFC8212, RFC8654, RFC9072) (Status: DRAFT STANDARD) (DOI:
-     10.17487/RFC4271) 
+     RFC7705, RFC8212, RFC8654, RFC9072, RFC9687) (Status: DRAFT
+     STANDARD) (DOI: 10.17487/RFC4271) 
 
 4272 BGP Security Vulnerabilities Analysis. S. Murphy. January 2006.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4272) 
@@ -19434,9 +19434,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC4749) 
 
 4750 OSPF Version 2 Management Information Base. D. Joyal, Ed., P.
-     Galecki, Ed., S. Giacalone, Ed., R. Coltun, F. Baker. December 2006.
-     (Format: TXT, HTML) (Obsoletes RFC1850) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC4750) 
+     Galecki, Ed., S. Giacalone, Ed.. December 2006. (Format: TXT, HTML)
+     (Obsoletes RFC1850) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC4750) 
 
 4751 Not Issued. 
 
@@ -30556,8 +30556,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7306) 
 
 7307 LDP Extensions for Multi-Topology. Q. Zhao, K. Raza, C. Zhou, L.
-     Fang, L. Li, D. King. July 2014. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC7307) 
+     Fang, L. Li, D. King. July 2014. (Format: TXT, HTML) (Updated by
+     RFC9658) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7307) 
 
 7308 Extended Administrative Groups in MPLS Traffic Engineering
      (MPLS-TE). E. Osborne. July 2014. (Format: TXT, HTML) (Status:
@@ -34538,8 +34538,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8199) 
 
 8200 Internet Protocol, Version 6 (IPv6) Specification. S. Deering, R.
-     Hinden. July 2017. (Format: TXT, HTML) (Obsoletes RFC2460) (Also
-     STD0086) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC8200) 
+     Hinden. July 2017. (Format: TXT, HTML) (Obsoletes RFC2460) (Updated
+     by RFC9673) (Also STD0086) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC8200) 
 
 8201 Path MTU Discovery for IP version 6. J. McCann, S. Deering, J.
      Mogul, R. Hinden, Ed.. July 2017. (Format: TXT, HTML) (Obsoletes
@@ -36044,8 +36045,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8535 Not Issued. 
 
 8536 The Time Zone Information Format (TZif). A. Olson, P. Eggert, K.
-     Murchison. February 2019. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8536) 
+     Murchison. February 2019. (Format: TXT, HTML) (Obsoleted by RFC9636)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8536) 
 
 8537 Updates to the Fast Reroute Procedures for Co-routed Associated
      Bidirectional Label Switched Paths (LSPs). R. Gandhi, Ed., H. Shah,
@@ -37206,8 +37207,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8793) 
 
 8794 Extensible Binary Meta Language. S. Lhomme, D. Rice, M. Bunkus. July
-     2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8794) 
+     2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9559) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8794) 
 
 8795 YANG Data Model for Traffic Engineering (TE) Topologies. X. Liu, I.
      Bryskin, V. Beeram, T. Saad, H. Shah, O. Gonzalez de Dios. August
@@ -40691,6 +40692,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9558) 
 
+9559 Matroska Media Container Format Specification. S. Lhomme, M. Bunkus,
+     D. Rice. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8794) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9559) 
+
 9560 Federated Authentication for the Registration Data Access Protocol
      (RDAP) Using OpenID Connect. S. Hollenbeck. April 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40882,6 +40887,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Updates RFC2661, RFC2784, RFC3931, RFC4380, RFC6040,
      RFC7450) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9601) 
 
+9602 Segment Routing over IPv6 (SRv6) Segment Identifiers in the IPv6
+     Addressing Architecture. S. Krishnan. October 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9602) 
+
 9603 Path Computation Element Communication Protocol (PCEP) Extensions
      for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
      M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
@@ -40984,9 +40993,22 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Housley. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC9092) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9632) 
 
+9633 Deterministic Networking (DetNet) YANG Data Model. X. Geng, Y. Ryoo,
+     D. Fedyk, R. Rahman, Z. Li. October 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9633) 
+
+9634 Operations, Administration, and Maintenance (OAM) for Deterministic
+     Networking (DetNet) with the IP Data Plane. G. Mirsky, M. Chen, D.
+     Black. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9634) 
+
 9635 Grant Negotiation and Authorization Protocol (GNAP). J. Richer, Ed.,
      F. Imbault. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9635) 
+
+9636 The Time Zone Information Format (TZif). A. Olson, P. Eggert, K.
+     Murchison. October 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC8536) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9636) 
 
 9637 Expanding the IPv6 Documentation Space. G. Huston, N. Buraglio.
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC3849)
@@ -41065,6 +41087,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Qu, R. Taylor, L. Zhang. October 2024. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9657) 
 
+9658 Multipoint LDP Extensions for Multi-Topology Routing. IJ. Wijnands,
+     M. Mishra, Ed., K. Raza, Z. Zhang, A. Gulko. October 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC7307) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9658) 
+
 9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
@@ -41087,7 +41114,41 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
 
+9666 Area Proxy for IS-IS. T. Li, S. Chen, V. Ilangovan, G. Mishra.
+     October 2024. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
+     (DOI: 10.17487/RFC9666) 
+
+9667 Dynamic Flooding on Dense Graphs. T. Li, Ed., P. Psenak, Ed., H.
+     Chen, L. Jalil, S. Dontula. October 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9667) 
+
+9669 BPF Instruction Set Architecture (ISA). D. Thaler, Ed.. October
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9669) 
+
 9671 Sieve Email Filtering: Extension for Processing Calendar
      Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9671) 
+
+9673 IPv6 Hop-by-Hop Options Processing Procedures. R. Hinden, G.
+     Fairhurst. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8200) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9673) 
+
+9675 Delay-Tolerant Networking Management Architecture (DTNMA). E.
+     Birrane III, S. Heiner, E. Annis. November 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
+
+9677 Content Delivery Network Interconnection (CDNI) Metadata for
+     Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
+     October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9677) 
+
+9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
+     Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9680) 
+
+9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
+     Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9687) 
