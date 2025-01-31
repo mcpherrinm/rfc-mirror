@@ -2120,6 +2120,10 @@
               Meetings", BCP 226, RFC 9137, DOI 10.17487/RFC9137,
               October 2021, <https://www.rfc-editor.org/info/rfc9137>.
 
+              Daley, J. and S. Turner, "IETF Meeting Venue Requirements
+	      Review", BCP 226, RFC 9712, DOI 10.17487/RFC9712, January
+	      2025, <https://www.rfc-editor.org/info/rfc9712>.
+
    [BCP227]   Best Current Practice 227,
               <https://www.rfc-editor.org/info/bcp227>.
               At the time of writing, this BCP comprises the following:
@@ -2234,4 +2238,13 @@
               Principle regarding Remote Registration Fee", BCP 239,
               RFC 9501, DOI 10.17487/RFC9501, December 2023,
               <https://www.rfc-editor.org/info/rfc9501>.
+
+   [BCP240]   Best Current Practice 240,
+              <https://www.rfc-editor.org/info/bcp240>.
+              At the time of writing, this BCP comprises the following:
+
+              Lodderstedt, T., Bradley, J., Labunets, A., and D. Fett,
+              "Best Current Practice for OAuth 2.0 Security", BCP 240,
+              RFC 9700, DOI 10.17487/RFC9700, January 2025,
+              <https://www.rfc-editor.org/info/rfc9700>.
 

@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/13/2024.)
+(CREATED ON: 01/30/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -1143,7 +1143,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0307) 
 
 0308 ARPANET host availability data. M. Seriff. March 1972. (Format: TXT,
-     HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0308) 
+     HTML) (Updated by RFC0530) (Status: UNKNOWN) (DOI: 10.17487/RFC0308) 
 
 0309 Data and File Transfer Workshop Announcement. A.K. Bhushan. March
      1972. (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0309) 
@@ -1772,8 +1772,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0496) 
 
 0497 Traffic Statistics (March 1973). A.M. McKenzie. April 1973. (Format:
-     TXT, PDF, HTML) (Updates RFC0482) (Status: UNKNOWN) (DOI:
-     10.17487/RFC0497) 
+     TXT, PDF, HTML) (Updates RFC0482) (Updated by RFC0509) (Status:
+     UNKNOWN) (DOI: 10.17487/RFC0497) 
 
 0498 On mail service to CCN. R.T. Braden. April 1973. (Format: TXT, HTML)
      (Status: UNKNOWN) (DOI: 10.17487/RFC0498) 
@@ -1811,7 +1811,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0508) 
 
 0509 Traffic statistics (April 1973). A.M. McKenzie. April 1973. (Format:
-     TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0509) 
+     TXT, HTML) (Updates RFC0497) (Updated by RFC0522) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0509) 
 
 0510 Request for network mailbox addresses. J.E. White. May 1973.
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0510) 
@@ -1853,7 +1854,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0522) 
 
 0523 SURVEY is in operation again. A.K. Bhushan. June 1973. (Format: TXT,
-     HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0523) 
+     HTML) (Updated by RFC0530) (Status: UNKNOWN) (DOI: 10.17487/RFC0523) 
 
 0524 Proposed Mail Protocol. J.E. White. June 1973. (Format: TXT, HTML)
      (Status: UNKNOWN) (DOI: 10.17487/RFC0524) 
@@ -19916,7 +19917,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4861 Neighbor Discovery for IP version 6 (IPv6). T. Narten, E. Nordmark,
      W. Simpson, H. Soliman. September 2007. (Format: TXT, HTML)
      (Obsoletes RFC2461) (Updated by RFC5942, RFC6980, RFC7048, RFC7527,
-     RFC7559, RFC8028, RFC8319, RFC8425, RFC9131) (Status: DRAFT
+     RFC7559, RFC8028, RFC8319, RFC8425, RFC9131, RFC9685) (Status: DRAFT
      STANDARD) (DOI: 10.17487/RFC4861) 
 
 4862 IPv6 Stateless Address Autoconfiguration. S. Thomson, T. Narten, T.
@@ -27228,8 +27229,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6550 RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks. T.
      Winter, Ed., P. Thubert, Ed., A. Brandt, J. Hui, R. Kelsey, P.
      Levis, K. Pister, R. Struik, JP. Vasseur, R. Alexander. March 2012.
-     (Format: TXT, HTML) (Updated by RFC9008, RFC9010) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6550) 
+     (Format: TXT, HTML) (Updated by RFC9008, RFC9010, RFC9685) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC6550) 
 
 6551 Routing Metrics Used for Path Calculation in Low-Power and Lossy
      Networks. JP. Vasseur, Ed., M. Kim, Ed., K. Pister, N. Dejean, D.
@@ -27242,8 +27243,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6553 The Routing Protocol for Low-Power and Lossy Networks (RPL) Option
      for Carrying RPL Information in Data-Plane Datagrams. J. Hui, JP.
-     Vasseur. March 2012. (Format: TXT, HTML) (Updated by RFC9008)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6553) 
+     Vasseur. March 2012. (Format: TXT, HTML) (Updated by RFC9008,
+     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6553) 
 
 6554 An IPv6 Routing Header for Source Routes with the Routing Protocol
      for Low-Power and Lossy Networks (RPL). J. Hui, JP. Vasseur, D.
@@ -28076,11 +28077,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6749 The OAuth 2.0 Authorization Framework. D. Hardt, Ed.. October 2012.
      (Format: TXT, HTML) (Obsoletes RFC5849) (Updated by RFC8252,
-     RFC8996) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6749) 
+     RFC8996, RFC9700) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6749) 
 
 6750 The OAuth 2.0 Authorization Framework: Bearer Token Usage. M. Jones,
-     D. Hardt. October 2012. (Format: TXT, HTML) (Updated by RFC8996)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6750) 
+     D. Hardt. October 2012. (Format: TXT, HTML) (Updated by RFC8996,
+     RFC9700) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6750) 
 
 6751 Native IPv6 behind IPv4-to-IPv4 NAT Customer Premises Equipment
      (6a44). R. Despres, Ed., B. Carpenter, D. Wing, S. Jiang. October
@@ -28384,8 +28386,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC6818) 
 
 6819 OAuth 2.0 Threat Model and Security Considerations. T. Lodderstedt,
-     Ed., M. McGloin, P. Hunt. January 2013. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC6819) 
+     Ed., M. McGloin, P. Hunt. January 2013. (Format: TXT, HTML) (Updated
+     by RFC9700) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6819) 
 
 6820 Address Resolution Problems in Large Data Center Networks. T.
      Narten, M. Karir, I. Foo. January 2013. (Format: TXT, HTML) (Status:
@@ -33471,7 +33473,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7958 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
      Schlyter, G. Bailey, P. Hoffman. August 2016. (Format: TXT, HTML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC7958) 
+     (Obsoleted by RFC9718) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC7958) 
 
 7959 Block-Wise Transfers in the Constrained Application Protocol (CoAP).
      C. Bormann, Z. Shelby, Ed.. August 2016. (Format: TXT, HTML)
@@ -33621,7 +33624,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7989) 
 
 7990 RFC Format Framework. H. Flanagan. December 2016. (Format: TXT,
-     HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7990) 
+     HTML) (Obsoleted by RFC9720) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC7990) 
 
 7991 The "xml2rfc" Version 3 Vocabulary. P. Hoffman. December 2016.
      (Format: TXT, HTML) (Obsoletes RFC7749) (Status: INFORMATIONAL)
@@ -34152,8 +34156,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8109) 
 
 8110 Opportunistic Wireless Encryption. D. Harkins, Ed., W. Kumari, Ed..
-     March 2017. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC8110) 
+     March 2017. (Format: TXT, HTML) (Updated by RFC9672) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC8110) 
 
 8111 Locator/ID Separation Protocol Delegated Database Tree (LISP-DDT).
      V. Fuller, D. Lewis, V. Ermagan, A. Jain, A. Smirnov. May 2017.
@@ -34461,7 +34465,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8182 The RPKI Repository Delta Protocol (RRDP). T. Bruijnzeels, O.
      Muravskiy, B. Weber, R. Austein. July 2017. (Format: TXT, HTML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8182) 
+     (Updated by RFC9674, RFC9697) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8182) 
 
 8183 An Out-of-Band Setup Protocol for Resource Public Key Infrastructure
      (RPKI) Production Services. R. Austein. July 2017. (Format: TXT,
@@ -35917,8 +35922,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8505 Registration Extensions for IPv6 over Low-Power Wireless Personal
      Area Network (6LoWPAN) Neighbor Discovery. P. Thubert, Ed., E.
      Nordmark, S. Chakrabarti, C. Perkins. November 2018. (Format: TXT,
-     HTML) (Updates RFC6775) (Updated by RFC8928, RFC8929, RFC9010)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8505) 
+     HTML) (Updates RFC6775) (Updated by RFC8928, RFC8929, RFC9010,
+     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8505) 
 
 8506 Diameter Credit-Control Application. L. Bertz, Ed., D. Dolson, Ed.,
      Y. Lifshitz, Ed.. March 2019. (Format: TXT, HTML) (Obsoletes
@@ -36374,7 +36379,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8610 Concise Data Definition Language (CDDL): A Notational Convention to
      Express Concise Binary Object Representation (CBOR) and JSON Data
      Structures. H. Birkholz, C. Vigano, C. Bormann. June 2019. (Format:
-     TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8610) 
+     TXT, HTML) (Updated by RFC9682) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8610) 
 
 8611 Label Switched Path (LSP) Ping and Traceroute Multipath Support for
      Link Aggregation Group (LAG) Interfaces. N. Akiya, G. Swallow, S.
@@ -36418,8 +36424,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8619) 
 
 8620 The JSON Meta Application Protocol (JMAP). N. Jenkins, C. Newman.
-     July 2019. (Format: TXT, HTML) (Updated by RFC9404) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8620) 
+     July 2019. (Format: TXT, HTML) (Updated by RFC9404, RFC9670)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8620) 
 
 8621 The JSON Meta Application Protocol (JMAP) for Mail. N. Jenkins, C.
      Newman. August 2019. (Format: TXT, HTML) (Updates RFC5788) (Status:
@@ -36804,8 +36810,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
      Cryptographic Message Syntax (CMS). R. Housley. February 2020.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8708) 
+     (Format: HTML, TXT, PDF, XML) (Obsoleted by RFC9708) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8708) 
 
 8709 Ed25519 and Ed448 Public Key Algorithms for the Secure Shell (SSH)
      Protocol. B. Harris, L. Velvindron. February 2020. (Format: HTML,
@@ -36856,12 +36862,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
      CURRENT PRACTICE) (DOI: 10.17487/RFC8717) 
 
 8718 IETF Plenary Meeting Venue Selection Process. E. Lear, Ed.. February
-     2020. (Format: HTML, TXT, PDF, XML) (Also BCP0226) (Status: BEST
-     CURRENT PRACTICE) (DOI: 10.17487/RFC8718) 
+     2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9712) (Also
+     BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8718) 
 
 8719 High-Level Guidance for the Meeting Policy of the IETF. S. Krishnan.
-     February 2020. (Format: HTML, TXT, PDF, XML) (Also BCP0226) (Status:
-     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8719) 
+     February 2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9712)
+     (Also BCP0226) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC8719) 
 
 8720 Principles for Operation of Internet Assigned Numbers Authority
      (IANA) Registries. R. Housley, Ed., O. Kolkman, Ed.. February 2020.
@@ -37905,7 +37912,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC8224) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8946) 
 
 8947 Link-Layer Address Assignment Mechanism for DHCPv6. B. Volz, T.
-     Mrugalski, C. Bernardos. December 2020. (Format: HTML, TXT, PDF,
+     Mrugalski, CJ. Bernardos. December 2020. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8947) 
 
 8948 Structured Local Address Plan (SLAP) Quadrant Selection Option for
@@ -38196,8 +38203,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9010 Routing for RPL (Routing Protocol for Low-Power and Lossy Networks)
      Leaves. P. Thubert, Ed., M. Richardson. April 2021. (Format: HTML,
-     TXT, PDF, XML) (Updates RFC6550, RFC6775, RFC8505) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9010) 
+     TXT, PDF, XML) (Updates RFC6550, RFC6775, RFC8505) (Updated by
+     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9010) 
 
 9011 Static Context Header Compression and Fragmentation (SCHC) over
      LoRaWAN. O. Gimenez, Ed., I. Petrov, Ed.. April 2021. (Format: HTML,
@@ -38933,8 +38940,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      INFORMATIONAL) (DOI: 10.17487/RFC9170) 
 
 9171 Bundle Protocol Version 7. S. Burleigh, K. Fall, E. Birrane, III.
-     January 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9171) 
+     January 2022. (Format: HTML, TXT, PDF, XML) (Updated by RFC9713)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9171) 
 
 9172 Bundle Protocol Security (BPSec). E. Birrane, III, K. McKeever.
      January 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -39425,7 +39432,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
-     RFC8729, RFC8730) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9280) 
+     RFC8729, RFC8730) (Updated by RFC9720) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9280) 
 
 9281 Entities Involved in the IETF Standards Process. R. Salz. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC2028) (Also BCP0011)
@@ -40710,6 +40718,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Leach. May 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4122)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9562) 
 
+9563 SM2 Digital Signature Algorithm for DNSSEC. C. Zhang, Y. Liu, F.
+     Leng, Q. Zhao, Z. He. December 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9563) 
+
 9564 Faster Than Light Speed Protocol (FLIP). M. Blanchet. 1 April 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9564) 
@@ -40920,6 +40932,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9608) 
 
+9610 JSON Meta Application Protocol (JMAP) for Contacts. N. Jenkins, Ed..
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9610) 
+
 9611 Internet Key Exchange Protocol Version 2 (IKEv2) Support for
      Per-Resource Child Security Associations (SAs). A. Antony, T.
      Brunner, S. Klassert, P. Wouters. July 2024. (Format: HTML, TXT,
@@ -40964,6 +40980,22 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Considerations. G. Grover, N. ten Oever. September 2024. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8280) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9620) 
+
+9621 Architecture and Requirements for Transport Services. T. Pauly, Ed.,
+     B. Trammell, Ed., A. Brunstrom, G. Fairhurst, C. S. Perkins. January
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9621) 
+
+9622 An Abstract Application Programming Interface (API) for Transport
+     Services. B. Trammell, Ed., M. Welzl, Ed., R. Enghardt, G.
+     Fairhurst, M. Kühlewind, C. S. Perkins, P.S. Tiesel, T. Pauly.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9622) 
+
+9623 Implementing Interfaces to Transport Services. A. Brunstrom, Ed., T.
+     Pauly, Ed., R. Enghardt, P.S. Tiesel, M. Welzl. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9623) 
 
 9624 EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Using Bit Index
      Explicit Replication (BIER). Z. Zhang, T. Przygienda, A. Sajassi, J.
@@ -41019,6 +41051,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9638) 
 
+9639 Free Lossless Audio Codec (FLAC). M.Q.C. van Beurden, A. Weaver.
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9639) 
+
 9640 YANG Data Types and Groupings for Cryptography. K. Watsen. October
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9640) 
@@ -41056,6 +41092,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9648) 
 
+9649 WebP Image Format. J. Zern, P. Massimino, J. Alakuijala. November
+     2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9649) 
+
 9650 Revision to Registration Procedures for IS-IS Neighbor
      Link-Attribute Bit Values. T. Li. August 2024. (Format: HTML, TXT,
      PDF, XML) (Updates RFC5029) (Status: PROPOSED STANDARD) (DOI:
@@ -41079,11 +41119,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC8954) (Updates RFC6960) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9654) 
 
+9655 Egress Validation in Label Switched Path Ping and Traceroute
+     Mechanisms. D. Rathi, Ed., S. Hegde, Ed., K. Arora, Z. Ali, N.
+     Nainar. November 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9655) 
+
 9656 A YANG Data Model for Microwave Topology. S. Mansfield, Ed., J.
      Ahlberg, M. Ye, X. Li, D. Spreafico. September 2024. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9656) 
 
-9657 Time-Variant Routing (TVR) Use Cases. E. Birrane III, N. Kuhn, Y.
+9657 Time-Variant Routing (TVR) Use Cases. E. Birrane, III, N. Kuhn, Y.
      Qu, R. Taylor, L. Zhang. October 2024. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9657) 
 
@@ -41122,33 +41167,179 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Chen, L. Jalil, S. Dontula. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9667) 
 
+9668 Using Ephemeral Diffie-Hellman Over COSE (EDHOC) with the
+     Constrained Application Protocol (CoAP) and Object Security for
+     Constrained RESTful Environments (OSCORE). F. Palombini, M. Tiloca,
+     R. Höglund, S. Hristozov, G. Selander. November 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9668) 
+
 9669 BPF Instruction Set Architecture (ISA). D. Thaler, Ed.. October
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9669) 
+
+9670 JSON Meta Application Protocol (JMAP) Sharing. N. Jenkins, Ed..
+     November 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC8620)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9670) 
 
 9671 Sieve Email Filtering: Extension for Processing Calendar
      Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9671) 
 
+9672 Transferring Opportunistic Wireless Encryption to the IEEE 802.11
+     Working Group. W. Kumari, D. Harkins. December 2024. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC8110) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9672) 
+
 9673 IPv6 Hop-by-Hop Options Processing Procedures. R. Hinden, G.
      Fairhurst. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8200) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9673) 
 
+9674 Same-Origin Policy for the RPKI Repository Delta Protocol (RRDP). J.
+     Snijders. December 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8182) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9674) 
+
 9675 Delay-Tolerant Networking Management Architecture (DTNMA). E.
-     Birrane III, S. Heiner, E. Annis. November 2024. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
+     Birrane, III, S. Heiner, E. Annis. November 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
 
 9677 Content Delivery Network Interconnection (CDNI) Metadata for
      Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
      October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9677) 
 
+9679 CBOR Object Signing and Encryption (COSE) Key Thumbprint. K. Isobe,
+     H. Tschofenig, O. Steele. December 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9679) 
+
 9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9680) 
+
+9681 IS-IS Fast Flooding. B. Decraene, L. Ginsberg, T. Li, G. Solignac,
+     M. Karasek, G. Van de Velde, T. Przygienda. November 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9681) 
+
+9682 Updates to the Concise Data Definition Language (CDDL) Grammar. C.
+     Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
+
+9683 Remote Integrity Verification of Network Devices Containing Trusted
+     Platform Modules. G. C. Fedorkow, Ed., E. Voit, J. Fitzgerald-McKay.
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9683) 
+
+9684 A YANG Data Model for Challenge-Response-Based Remote Attestation
+     (CHARRA) Procedures Using Trusted Platform Modules (TPMs). H.
+     Birkholz, M. Eckel, S. Bhandari, E. Voit, B. Sulzen, L. Xia, T.
+     Laffey, G. C. Fedorkow. December 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9684) 
+
+9685 Listener Subscription for IPv6 Neighbor Discovery Multicast and
+     Anycast Addresses. P. Thubert, Ed.. November 2024. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9685) 
+
+9686 Registering Self-Generated IPv6 Addresses Using DHCPv6. W. Kumari,
+     S. Krishnan, R. Asati, L. Colitti, J. Linkova, S. Jiang. December
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9686) 
 
 9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
      Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
      (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9687) 
+
+9688 Use of the SHA3 One-Way Hash Functions in the Cryptographic Message
+     Syntax (CMS). R. Housley. November 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9688) 
+
+9689 Use Cases for a PCE as a Central Controller (PCECC). Z. Li, D.
+     Dhody, Q. Zhao, Z. Ke, B. Khasanov. December 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
+
+9691 A Profile for Resource Public Key Infrastructure (RPKI) Trust Anchor
+     Keys (TAKs). C. Martinez, G. Michaelson, T. Harrison, T.
+     Bruijnzeels, R. Austein. December 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9691) 
+
+9693 Benchmarking Methodology for Stateful NATxy Gateways. G. Lencse, K.
+     Shima. January 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9693) 
+
+9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
+     Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9697) 
+
+9698 The JMAPACCESS Extension for IMAP. A. Gulbrandsen, B. Gondwana.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9698) 
+
+9699 Use Case for an Extended Reality Application on Edge Computing
+     Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
+
+9700 Best Current Practice for OAuth 2.0 Security. T. Lodderstedt, J.
+     Bradley, A. Labunets, D. Fett. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC6749, RFC6750, RFC6819) (Also BCP0240)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9700) 
+
+9701 JSON Web Token (JWT) Response for OAuth Token Introspection. T.
+     Lodderstedt, Ed., V. Dzhuvinov. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9701) 
+
+9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
+     Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9702) 
+
+9703 Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR)
+     Egress Peer Engineering (EPE) Segment Identifiers (SIDs) with MPLS
+     Data Plane. S. Hegde, M. Srivastava, K. Arora, S. Ninan, X. Xu.
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9703) 
+
+9704 Establishing Local DNS Authority in Validated Split-Horizon
+     Environments. T. Reddy.K, D. Wing, K. Smith, B. Schwartz. January
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9704) 
+
+9706 TreeDN: Tree-Based Content Delivery Network (CDN) for Live Streaming
+     to Mass Audiences. L. Giuliano, C. Lenart, R. Adam. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9706) 
+
+9708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
+     Cryptographic Message Syntax (CMS). R. Housley. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8708) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9708) 
+
+9709 Encryption Key Derivation in the Cryptographic Message Syntax (CMS)
+     Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
+
+9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
+     BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9712) 
+
+9713 Bundle Protocol Version 7 Administrative Record Types Registry. B.
+     Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
+
+9715 IP Fragmentation Avoidance in DNS over UDP. K. Fujiwara, P. Vixie.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9715) 
+
+9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9717) 
+
+9718 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
+     Schlyter, G. Bailey, P. Hoffman. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7958) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9718) 
+
+9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 

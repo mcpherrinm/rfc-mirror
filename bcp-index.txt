@@ -5,7 +5,7 @@
                              BCP INDEX
                            -------------
 
-CREATED ON: 11/12/2024.
+CREATED ON: 01/30/2025.
 
 This file contains citations for all BCPs in numeric order.  The BCPs
 form a sub-series of the RFC document series, specifically those RFCs
@@ -911,7 +911,8 @@ RFC Editor Web page http://www.rfc-editor.org.
      Jones. February 2020. (Updates RFC7519) (Also RFC8725)
 
 0226 Meeting Venue Selection and Policy. E. Lear, Ed., S. Krishnan, M.
-     Duke. (Format: bytes) (Also RFC8718, RFC8719, RFC9137)
+     Duke, J. Daley, Ed., S. Turner. (Format: bytes) (Also RFC8718,
+     RFC8719, RFC9137, RFC9712)
 
 0227 Deprecating RC4 in Secure Shell (SSH). L. Velvindron. April 2020.
      (Updates RFC4253) (Also RFC8758)
@@ -955,3 +956,7 @@ RFC Editor Web page http://www.rfc-editor.org.
 
 0239 Open Participation Principle regarding Remote Registration Fee.
      M. Kühlewind, J. Reed, R. Salz. December 2023. (Also RFC9501)
+
+0240 Best Current Practice for OAuth 2.0 Security. T. Lodderstedt, J.
+     Bradley, A. Labunets, D. Fett. January 2025. (Updates RFC6749,
+     RFC6750, RFC6819) (Also RFC9700)
