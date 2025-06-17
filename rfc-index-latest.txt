@@ -4,87 +4,86 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9689 Use Cases for a PCE as a Central Controller (PCECC). Z. Li, D.
-     Dhody, Q. Zhao, Z. Ke, B. Khasanov. December 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
+9770 Notification of Revoked Access Tokens in the Authentication and
+     Authorization for Constrained Environments (ACE) Framework. M.
+     Tiloca, F. Palombini, S. Echeverria, G. Lewis. June 2025. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9770) 
 
-9691 A Profile for Resource Public Key Infrastructure (RPKI) Trust Anchor
-     Keys (TAKs). C. Martinez, G. Michaelson, T. Harrison, T.
-     Bruijnzeels, R. Austein. December 2024. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9691) 
+9771 Properties of Authenticated Encryption with Associated Data (AEAD)
+     Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9771) 
 
-9693 Benchmarking Methodology for Stateful NATxy Gateways. G. Lencse, K.
-     Shima. January 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9693) 
+9772 Active Operations, Administration, and Maintenance (OAM) for Use in
+     Generic Network Virtualization Encapsulation (Geneve). G. Mirsky, S.
+     Boutros, D. Black, S. Pallagatti. May 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9772) 
 
-9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
-     Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
-     HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9697) 
+9774 Deprecation of AS_SET and AS_CONFED_SET in BGP. W. Kumari, K.
+     Sriram, L. Hannachi, J. Haas. May 2025. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC6472) (Updates RFC4271, RFC5065) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9774) 
 
-9698 The JMAPACCESS Extension for IMAP. A. Gulbrandsen, B. Gondwana.
-     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9698) 
+9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
 
-9699 Use Case for an Extended Reality Application on Edge Computing
-     Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
+9776 Internet Group Management Protocol, Version 3. B. Haberman, Ed..
+     March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3376)
+     (Updates RFC2236) (Also STD0100) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC9776) 
 
-9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
-     Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
-     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9702) 
+9777 Multicast Listener Discovery Version 2 (MLDv2) for IPv6. B.
+     Haberman, Ed.. March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC3810) (Updates RFC2710) (Also STD0101) (Status: INTERNET
+     STANDARD) (DOI: 10.17487/RFC9777) 
 
-9703 Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR)
-     Egress Peer Engineering (EPE) Segment Identifiers (SIDs) with MPLS
-     Data Plane. S. Hegde, M. Srivastava, K. Arora, S. Ninan, X. Xu.
-     December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9703) 
+9778 IANA Considerations for Internet Group Management Protocols. B.
+     Haberman, Ed.. March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC3228) (Also BCP0057) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9778) 
 
-9704 Establishing Local DNS Authority in Validated Split-Horizon
-     Environments. T. Reddy.K, D. Wing, K. Smith, B. Schwartz. January
+9779 Performance Measurement for Segment Routing Networks with the MPLS
+     Data Plane. R. Gandhi, Ed., C. Filsfils, D. Voyer, S. Salsano, M.
+     Chen. May 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9779) 
+
+9780 Bidirectional Forwarding Detection (BFD) for Multipoint Networks
+     over Point-to-Multipoint MPLS Label Switched Paths (LSPs). G.
+     Mirsky, G. Mishra, D. Eastlake 3rd. May 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC8562) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9780) 
+
+9781 A Concise Binary Object Representation (CBOR) Tag for Unprotected
+     CBOR Web Token Claims Sets (UCCS). H. Birkholz, J. O'Donoghue, N.
+     Cam-Winget, C. Bormann. May 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9781) 
+
+9782 Entity Attestation Token (EAT) Media Types. L. Lundblade, H.
+     Birkholz, T. Fossati. May 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9782) 
+
+9783 Arm's Platform Security Architecture (PSA) Attestation Token. H.
+     Tschofenig, S. Frost, M. Brossard, A. Shaw, T. Fossati. June 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9783) 
+
+9792 Prefix Flag Extension for OSPFv2 and OSPFv3. R. Chen, D. Zhao, P.
+     Psenak, K. Talaulikar, L. Gong. June 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9792) 
+
+9793 BGP Extensions for Bit Index Explicit Replication (BIER). X. Xu, M.
+     Chen, K. Patel, IJ. Wijnands, T. Przygienda, Z. Zhang, Ed.. June
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9704) 
+     (DOI: 10.17487/RFC9793) 
 
-9706 TreeDN: Tree-Based Content Delivery Network (CDN) for Live Streaming
-     to Mass Audiences. L. Giuliano, C. Lenart, R. Adam. January 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9706) 
+9794 Terminology for Post-Quantum Traditional Hybrid Schemes. F.
+     Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
 
-9708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
-     Cryptographic Message Syntax (CMS). R. Housley. January 2025.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8708) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9708) 
-
-9709 Encryption Key Derivation in the Cryptographic Message Syntax (CMS)
-     Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
-
-9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
-     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
-     BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9712) 
-
-9713 Bundle Protocol Version 7 Administrative Record Types Registry. B.
-     Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
-
-9715 IP Fragmentation Avoidance in DNS over UDP. K. Fujiwara, P. Vixie.
-     January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9715) 
-
-9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9717) 
-
-9718 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
-     Schlyter, G. Bailey, P. Hoffman. January 2025. (Format: HTML, TXT,
-     PDF, XML) (Obsoletes RFC7958) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9718) 
-
-9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
+9803 Extensible Provisioning Protocol (EPP) Mapping for DNS Time-to-Live
+     (TTL) Values. G. Brown. June 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9803) 
 
 ===========================================================================
- - This file last updated Thu 30 Jan 2025 02:30:01 AM PST
+ - This file last updated Tue 17 Jun 2025 02:30:01 AM PDT
 
